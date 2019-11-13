@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="workspace">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../devel/lib/python2.7/dist-packages" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../.." />
+    </SOURCES>
+  </library>
+</component>
